@@ -1,4 +1,4 @@
-# React Product Catalog
+# New Gadgets | Product Catalog
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
