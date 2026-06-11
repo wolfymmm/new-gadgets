@@ -22,7 +22,7 @@
   
 ## DEMO
 
-> **Live Preview:** Active deployment is available at [wolfymmm.github.io/react_phone-catalog](https://wolfymmm.github.io/new-gadgets/)
+> **Live Preview:** Active deployment is available at [https://wolfymmm.github.io/new-gadgets/](https://wolfymmm.github.io/new-gadgets/)
   
 
 ## License
